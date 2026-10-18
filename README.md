@@ -1,4 +1,8 @@
 # UGOPICK---the-future-of-GovTech
+
+<img src="home page .png" alt="UGOPick homepage" width="400">
+
+
 UGOPICK empowers public-sector professionals to make better-informed decisions, opening a global opportunity for AI-driven government innovation, scalable technology partnerships, and strategic acquisition by leading tech companies
 **www.ugopick.com**
 
@@ -56,5 +60,7 @@ _What if the next wave of public-sector innovation came from the people who unde
 
 **The product is small. The opportunity could be much bigger.**
 
-**UGOPick — The pulse of the public sector.**
+**UGOPICK — The pulse of the public sector.**
+
+<img src="UGOPICK logo and tagline.png" alt="UGOPick homepage" width="400">
 
