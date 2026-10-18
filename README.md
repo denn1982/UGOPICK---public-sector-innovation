@@ -13,11 +13,11 @@ UGOPICK empowers public-sector professionals to make better-informed decisions, 
 
 **From a Real Problem to a Bigger Vision**
 
-UGOPick is a digital tool designed to help public-sector professionals gather opinions, engage teams, and make decisions in a structured and transparent way.
+UGOPick is a digital tool **designed to help public-sector professionals** gather opinions, engage teams, and make decisions in a structured and transparent way.
 
 That experience revealed an opportunity far bigger than the tool itself.
 
-What if AI enabled public-sector professionals to turn their own ideas into working digital solutions?
+**What if AI enabled public-sector professionals to turn their own ideas into working digital solutions?**
 
 **The Opportunity: Democratise Software Creation**
 
