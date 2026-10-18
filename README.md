@@ -4,7 +4,7 @@
 
 
 UGOPICK empowers public-sector professionals to make better-informed decisions, opening a global opportunity for AI-driven government innovation, scalable technology partnerships, and strategic acquisition by leading tech companies
-**www.ugopick.com**
+
 
 
 
@@ -31,7 +31,7 @@ The model is simple:
 
 Domain expertise → Real problems → AI-assisted development → Working solutions
 
-This is not about replacing developers or bypassing governance. It is about empowering more people to participate in innovation, making experimentation more accessible, and helping organisations discover which ideas deserve investment.
+This is not about replacing developers or bypassing governance. It is about **empowering more people to participate in innovation, making experimentation more accessible, and helping organisations discover which ideas deserve investment**.
 
 **Why It Matters**
 
@@ -47,9 +47,9 @@ UGOPick is an early example of this approach: a real product built by someone wi
 
 **Beyond UGOPick**
 
-The ambition is to explore how this approach could evolve into a scalable model for public-sector digital innovation, potentially supported by AI, modern development platforms, strategic partnerships, and investment.
+**The ambition is to explore how this approach could evolve into a scalable model for public-sector digital innovation, potentially supported by AI, modern development platforms, strategic partnerships, and investment**.
 
-The next step is to validate the opportunity, explore practical applications, and discover how this model could complement existing technology ecosystems.
+The next step is to **validate the opportunity, explore practical applications, and discover how this model could complement existing technology ecosystems**.
 
 
 **The Bigger Picture**
@@ -61,6 +61,7 @@ It has become the starting point for a bigger question:
 _What if the next wave of public-sector innovation came from the people who understand its problems best—and AI gave them the power to build the solutions?_
 
 **The product is small. The opportunity could be much bigger.**
+**www.ugopick.com**
 
 <img src="UGOPICK logo and tagline.png" alt="UGOPick homepage" width="400">
 
