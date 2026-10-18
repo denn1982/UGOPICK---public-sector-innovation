@@ -1,4 +1,4 @@
-# UGOPICK---the-future-of-GovTech
+# UGOPICK---Pulse of Millions Public Sector Professionals
 
 <img src="home page .png" alt="UGOPick homepage" width="400">
 
@@ -35,13 +35,15 @@ This is not about replacing developers or bypassing governance. It is about empo
 
 **Why It Matters**
 
-Imagine unlocking the collective problem-solving potential of millions of public-sector professionals.
+Imagine unlocking the collective **problem-solving potential of millions of public-sector professionals**.
 
 Instead of relying exclusively on traditional, top-down technology projects, organisations could enable the people who understand their challenges firsthand to help create the solutions.
 
 The opportunity is to shorten the distance between identifying a problem and developing a practical response—while maintaining the security, privacy, accessibility, and accountability that public services demand.
 
 UGOPick is an early example of this approach: a real product built by someone with deep domain experience rather than a traditional software development background.
+
+<img src="vote-page.png" alt="UGOPick homepage" width="400">
 
 **Beyond UGOPick**
 
