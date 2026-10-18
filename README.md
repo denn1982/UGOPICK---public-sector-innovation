@@ -1,9 +1,9 @@
-# UGOPICK---Pulse of Millions Public Sector Professionals
+# UGOPICK---Pulse of Millions Public Sector Professionals 
 
 <img src="home page .png" alt="UGOPick homepage" width="400">
 
 
-UGOPICK empowers public-sector professionals to make better-informed decisions, opening a global opportunity for AI-driven government innovation, scalable technology partnerships, and strategic acquisition by leading tech companies
+**UGOPICK empowers public-sector professionals to make better-informed decisions, opening a global opportunity for AI-driven government innovation, scalable technology partnerships, and strategic acquisition by leading tech companies**
 
 
 
@@ -25,7 +25,7 @@ Public-sector organisations face thousands of specific challenges. The people cl
 
 **AI is creating a new possibility**.
 
-By combining domain expertise with AI-assisted development, public-sector professionals could identify problems, build prototypes, test solutions, and bring successful ideas closer to implementation.
+By combining domain expertise with **AI-assisted development, public-sector professionals could identify problems**, build prototypes, test solutions, and bring successful ideas closer to implementation.
 
 The model is simple:
 
