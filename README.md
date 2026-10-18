@@ -61,6 +61,9 @@ It has become the starting point for a bigger question:
 _What if the next wave of public-sector innovation came from the people who understand its problems best—and AI gave them the power to build the solutions?_
 
 **The product is small. The opportunity could be much bigger.**
+
+**Contact me:**
+
 **www.ugopick.com**
 
 <img src="UGOPICK logo and tagline.png" alt="UGOPick homepage" width="400">
