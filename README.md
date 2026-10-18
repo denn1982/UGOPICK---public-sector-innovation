@@ -60,7 +60,5 @@ _What if the next wave of public-sector innovation came from the people who unde
 
 **The product is small. The opportunity could be much bigger.**
 
-**UGOPICK — The pulse of the public sector.**
-
 <img src="UGOPICK logo and tagline.png" alt="UGOPick homepage" width="400">
 
