@@ -29,7 +29,7 @@ By combining domain expertise with **AI-assisted development, public-sector prof
 
 <img src="vote example 2.png" alt="UGOPick photos" width="400">
 
-The model is simple:
+The model is simple: 
 
 Domain expertise → Real problems → AI-assisted development → Working solutions
 
