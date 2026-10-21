@@ -1,6 +1,7 @@
 # UGOPICK® — From Employee Voice to Public-Sector Intelligence and Action
 
-# Vision: To make the collective voice, knowledge, experience, and capabilities of public-sector employees a meaningful driver of organizational learning, collaboration, and innovation.
+# Vision: 
+To make the collective voice, knowledge, experience, and capabilities of public-sector employees a meaningful driver of organizational learning, collaboration, and innovation.
 
 UGOPICK® can be envisioned as more than a polling tool. Polling provides the starting point: a simple, accessible way for employees to express opinions, share experiences, identify challenges, and signal what matters to them. The longer-term ambition is to explore how those individual signals can be connected, understood, shared, and translated into meaningful improvements across public-sector organizations.
 
