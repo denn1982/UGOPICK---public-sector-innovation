@@ -27,7 +27,7 @@ Public-sector organisations face thousands of specific challenges. The people cl
 
 By combining domain expertise with **AI-assisted development, public-sector professionals could identify problems**, build prototypes, test solutions, and bring successful ideas closer to implementation.
 
-<img src="vote 2.png" alt="UGOPick homepage" width="400">
+<img src="vote example 2.png" alt="UGOPick photos" width="400">
 
 The model is simple:
 
