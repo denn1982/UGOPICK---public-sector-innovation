@@ -2,7 +2,6 @@
 
 <img src="home page .png" alt="UGOPick homepage" width="400">
 
-
 **UGOPICK empowers public-sector professionals to make better-informed decisions, opening a global opportunity for AI-driven government innovation, scalable technology partnerships, and strategic acquisition by leading tech companies**
 
 
@@ -17,6 +16,8 @@ UGOPick is a digital tool **designed to help public-sector professionals** gathe
 
 That experience revealed an opportunity far bigger than the tool itself.
 
+<img src="photos/vote%20example%205.png" alt="UGOPick photos" width="400">
+
 **What if AI enabled public-sector professionals to turn their own ideas into working digital solutions?**
 
 **The Opportunity: Democratise Software Creation**
@@ -27,13 +28,15 @@ Public-sector organisations face thousands of specific challenges. The people cl
 
 By combining domain expertise with **AI-assisted development, public-sector professionals could identify problems**, build prototypes, test solutions, and bring successful ideas closer to implementation.
 
-<img src="vote example 2.png" alt="UGOPick photos" width="400">
+<img src="photos/vote%20example%202.png" alt="UGOPick photos" width="400">
 
 The model is simple: 
 
 Domain expertise → Real problems → AI-assisted development → Working solutions
 
 This is not about replacing developers or bypassing governance. It is about **empowering more people to participate in innovation, making experimentation more accessible, and helping organisations discover which ideas deserve investment**.
+
+<img src="photos/vote%20example%206.png" alt="UGOPick photos" width="400">
 
 **Why It Matters**
 
@@ -45,7 +48,7 @@ The opportunity is to shorten the distance between identifying a problem and dev
 
 UGOPick is an early example of this approach: a real product built by someone with deep domain experience rather than a traditional software development background.
 
-<img src="vote-page.png" alt="UGOPick homepage" width="400">
+<img src="photos/vote%20example%203.png" alt="UGOPick photos" width="400">
 
 **Beyond UGOPick**
 
@@ -53,6 +56,7 @@ UGOPick is an early example of this approach: a real product built by someone wi
 
 The next step is to **validate the opportunity, explore practical applications, and discover how this model could complement existing technology ecosystems**.
 
+<img src="photos/vote%20example%204.png" alt="UGOPick photos" width="400">
 
 **The Bigger Picture**
 
@@ -69,4 +73,5 @@ _What if the next wave of public-sector innovation came from the people who unde
 **www.ugopick.com**
 
 <img src="UGOPICK logo and tagline.png" alt="UGOPick homepage" width="400">
+
 
